@@ -15,6 +15,12 @@ body {
     color: #ffffff;
 }
 
+h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: #d9dcd6
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,6 +29,11 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+
+
+
+
 
 .header div {
     padding-top: 15px;
@@ -46,9 +57,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+
 
 
 #mainpic {
@@ -185,6 +194,16 @@ p {
     font-size: 36px;
 }
 
+ok
+p  {
+    font-size: 16px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: #d9dcd6
+}
 
 h2 {
     font-size: 20px;
