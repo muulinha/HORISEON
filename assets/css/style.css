@@ -8,10 +8,72 @@ body {
     background-color: #d9dcd6;
 }
 
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+header ul {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px; 
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+    color:white;
+}
+
+.seo {
+    color: #d9dcd6;
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
 
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+#mainpic {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.info {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.info img {
+    max-height: 200px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p  {
+    font-size: 16px;
 }
 
 .float-left {
@@ -40,7 +102,6 @@ a {
     color: #ffffff;
 }
 
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -50,77 +111,6 @@ h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-p  {
-    font-size: 16px;
-}
-
-h1 {
-    display: inline-block;
-    font-size: 48px;
-    color:white;
-}
-
-li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-.seo {
-    color: #d9dcd6;
-}
-
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-    
-}
-
-header ul {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px; 
-}
-
-#mainpic {
-    width: 100%;
-    margin-bottom: 25px;
-    }
-
-h2 {
-    font-size: 20px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.info {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-.info img {
-    max-height: 200px;
-}
-
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
