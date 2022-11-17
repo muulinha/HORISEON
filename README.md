@@ -4,6 +4,9 @@
 
 This website was developed to describe the services provided the Horiseon Group. 
 
+Link to the website:  https://muulinha.github.io/HORISEON/
+Link to the repository in GibHub: https://github.com/muulinha/HORISEON
+
 ## Website Content
 
 ### Header
